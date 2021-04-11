@@ -1,0 +1,5 @@
+export const GET_TODOS_TYPE = "GET_TODOS_TYPE";
+export const ADD_TODO_TYPE = "ADD_TODO_TYPE";
+export const DELETE_TODO_TYPE = "DELETE_TODO_TYPE";
+export const NEXT_PAGE_TYPE = "NEXT_PAGE_TYPE";
+export const PREV_PAGE_TYPE = "PREV_PAGE_TYPE";
